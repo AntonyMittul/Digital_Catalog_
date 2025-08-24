@@ -1,0 +1,9 @@
+{
+  "Grocery & Staples": ["rice","wheat","dal","lentil","atta","sugar","salt","oil","masala","spice","flour"],
+  "Fruits & Vegetables": ["tomato","potato","onion","banana","mango","apple","greens","veg","fruit"],
+  "Handicrafts": ["handloom","saree","kantha","basket","terracotta","wooden","handcrafted","artisan","shawl","jute"],
+  "Home & Kitchen": ["utensil","steel","plate","mug","bottle","mixer","grinder","cookware","pan","tawa"],
+  "Beauty & Personal Care": ["soap","shampoo","cream","lotion","perfume","oil","ayurvedic","herbal"],
+  "Electronics": ["charger","earphone","usb","bulb","led","torch","battery","adapter"],
+  "Fashion": ["tshirt","shirt","jeans","kurta","dress","dupatta","footwear","sandals","belt","wallet"]
+}
